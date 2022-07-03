@@ -3,10 +3,8 @@
 function BMI(weight,height){
    return weight/(height*height);
 }
-let bmi=BMI(52,162);
+let bmi=BMI(52,1.62);
 console.log(bmi);
-
-
 
 
 //bonus 1
@@ -16,5 +14,10 @@ console.log(bmi);
 //  }
 //  let bmi=BMI();
 //  console.log(bmi);
- 
+
+
+ function Status(bmi){
+
+
+ }
  
