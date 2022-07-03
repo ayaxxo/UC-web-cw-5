@@ -26,7 +26,7 @@ console.log(bmi);
     else if (bmi>=25){
         return 'لديك زيادة في الوزن';
     }
- } }
+ }
 
 
  function calculate(){
